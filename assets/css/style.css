@@ -1126,6 +1126,10 @@ Navigation
 
 /* Navbar transparent */
 
+.navbar-transparent .navbar-brand {
+  opacity: 0;
+}
+
 .navbar-transparent {
 	background: transparent;
 	padding-top: 15px;
