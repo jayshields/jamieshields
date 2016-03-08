@@ -6,11 +6,11 @@
     <meta name="description" content="Full-stack web developer based in Leeds. Available for short-term contract work and freelance projects." />
     <meta name="keywords" content="Jamie Shields, Shields, James Shields, PHP, MySQL, Developer, Designer, Web, Website, Leeds, Portfolio, Twitter, Facebook, jQuery, Javascript, HTML, ZCE, BSc, Zend Certified" />
 
-    <title>Jamie Shields - Professional Web Developer</title>
+    <title>Jamie Shields - Freelance Web Developer</title>
 
     <meta name="theme-color" content="#222222">
 
-    <meta property="og:title" content="Jamie Shields - Professional Web Developer" />
+    <meta property="og:title" content="Jamie Shields - Freelance Web Developer" />
     <meta property="og:site_name" content="jamieshields.co.uk"/>
     <meta property="og:url" content="http://jamieshields.co.uk" />
     <meta property="og:description" content="Full-stack web developer based in Leeds. Available for short-term contract work and freelance projects." />
@@ -21,7 +21,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@jayshields">
     <meta name="twitter:creator" content="@jayshields">
-    <meta name="twitter:title" content="Jamie Shields - Professional Web Developer">
+    <meta name="twitter:title" content="Jamie Shields - Freelance Web Developer">
     <meta name="twitter:description" content="Full-stack web developer based in Leeds. Available for short-term contract work and freelance projects.">
     <meta name="twitter:image:src" content="http://jamieshields.co.uk/assets/images/social-og.jpg">
     
@@ -108,7 +108,7 @@
         <div class="hero-caption">
           <div class="hero-text">
             <h1 class="mh-line-size-1 font-alt m-b-50">Jamie Shields</h1>
-            <h2 class="mh-line-size-4 font-alt">Professional web developer</h2>
+            <h2 class="mh-line-size-4 font-alt">Freelance web developer</h2>
           </div>
         </div>
       </section>
@@ -146,7 +146,7 @@
         <div class="row module" style="padding-top: 70px;">
           <div class="col-md-6 col-md-offset-3">
             <h4 class="font-alt m-t-0 m-b-20">Get in touch with me</h4>
-            <p>Looking for a quote? Just want to chat?</p>
+            <p>Looking for a quote? Want to read a full CV? Just want to chat?</p>
             <form id="contact-form" role="form">
               <div class="form-group">
                 <label for="cname" class="sr-only">Name</label>
