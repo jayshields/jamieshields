@@ -118,26 +118,25 @@
       <div class="container">
         <a name="about"></a>
         <div class="row module" style="padding-top: 70px; padding-bottom: 70px;">
-          <div class="col-md-6">
+          <div class="col-md-4">
             <h4 class="font-alt m-t-0 m-b-20">A bit about me</h4>
             <p>I'm a full-stack web developer based in Leeds and I love building fast, scalable and usable websites and web applications.</p>
             <p>I have over <?php echo date('Y') - 2009; ?> years commercial experience in startups and <a href="http://www.stickyeyes.com" target="_blank">award winning digital agencies</a>.</p>
             <p>I'm a published <a href="http://www.sitepoint.com/author/jshields/" target="_blank">SitePoint author</a> in PHP and JavaScript.</p>
           </div>
 
-          <?php if (false): //Hide brands section for now ?>
-            <div class="col-md-4">
-              <h4 class="font-alt m-t-0 m-b-20">Brands I've worked on</h4>
-              <img src="assets/images/hertz-grey.jpg" alt="Hertz" style="width: 40%; max-width: 200px; margin: 4%;" onmouseover="$(this).attr('src', 'assets/images/hertz-colour.jpg');" onmouseout="$(this).attr('src', 'assets/images/hertz-grey.jpg');" />
-              <img src="assets/images/ladbrokes-grey.jpg" alt="Ladbrokes" style="width: 40%; max-width: 200px; margin: 4%;" onmouseover="$(this).attr('src', 'assets/images/ladbrokes-colour.jpg');" onmouseout="$(this).attr('src', 'assets/images/ladbrokes-grey.jpg');" />
-              <img src="assets/images/maximuscle-grey.jpg" alt="Maximuscle" style="width: 40%; max-width: 200px; margin: 4%;" onmouseover="$(this).attr('src', 'assets/images/maximuscle-colour.jpg');" onmouseout="$(this).attr('src', 'assets/images/maximuscle-grey.jpg');" />
-              <img src="assets/images/motors-grey.jpg" alt="Motors" style="width: 40%; max-width: 200px; margin: 4%;" onmouseover="$(this).attr('src', 'assets/images/motors-colour.jpg');" onmouseout="$(this).attr('src', 'assets/images/motors-grey.jpg');" />
-              <img src="assets/images/gsk-grey.jpg" alt="GSK" style="width: 40%; max-width: 200px; margin: 4%;" onmouseover="$(this).attr('src', 'assets/images/gsk-colour.jpg');" onmouseout="$(this).attr('src', 'assets/images/gsk-grey.jpg');" />
-              <img src="assets/images/very-grey.jpg" alt="Very" style="width: 40%; max-width: 200px; margin: 4%;" onmouseover="$(this).attr('src', 'assets/images/very-colour.jpg');" onmouseout="$(this).attr('src', 'assets/images/very-grey.jpg');" />
-            </div>
-          <?php endif; ?>
+          <div class="col-md-4">
+            <h4 class="font-alt m-t-0 m-b-20">Brands I've worked with</h4>
+            <img src="assets/images/hertz-grey.jpg" alt="Hertz" style="width: 40%; max-width: 200px; margin: 4%;" onmouseover="$(this).attr('src', 'assets/images/hertz-colour.jpg');" onmouseout="$(this).attr('src', 'assets/images/hertz-grey.jpg');" />
+            <img src="assets/images/ladbrokes-grey.jpg" alt="Ladbrokes" style="width: 40%; max-width: 200px; margin: 4%;" onmouseover="$(this).attr('src', 'assets/images/ladbrokes-colour.jpg');" onmouseout="$(this).attr('src', 'assets/images/ladbrokes-grey.jpg');" />
+            <img src="assets/images/nyt-grey.jpg" alt="Maximuscle" style="width: 40%; max-width: 200px; margin: 4%;" onmouseover="$(this).attr('src', 'assets/images/nyt-colour.jpg');" onmouseout="$(this).attr('src', 'assets/images/nyt-grey.jpg');" />
+            <img src="assets/images/maximuscle-grey.jpg" alt="Maximuscle" style="width: 40%; max-width: 200px; margin: 4%;" onmouseover="$(this).attr('src', 'assets/images/maximuscle-colour.jpg');" onmouseout="$(this).attr('src', 'assets/images/maximuscle-grey.jpg');" />
+            <img src="assets/images/motors-grey.jpg" alt="Motors" style="width: 40%; max-width: 200px; margin: 4%;" onmouseover="$(this).attr('src', 'assets/images/motors-colour.jpg');" onmouseout="$(this).attr('src', 'assets/images/motors-grey.jpg');" />
+            <img src="assets/images/gsk-grey.jpg" alt="GSK" style="width: 40%; max-width: 200px; margin: 4%;" onmouseover="$(this).attr('src', 'assets/images/gsk-colour.jpg');" onmouseout="$(this).attr('src', 'assets/images/gsk-grey.jpg');" />
+            <img src="assets/images/very-grey.jpg" alt="Very" style="width: 40%; max-width: 200px; margin: 4%;" onmouseover="$(this).attr('src', 'assets/images/very-colour.jpg');" onmouseout="$(this).attr('src', 'assets/images/very-grey.jpg');" />
+          </div>
 
-          <div class="col-md-6">
+          <div class="col-md-4">
             <h4 class="font-alt m-t-0 m-b-20">My Certifications</h4>
             <a href="http://www.zend.com/en/yellow-pages/ZEND022306" target="_blank"><img src="assets/images/zend-grey.jpg" alt="Zend Certified PHP Engineer" onmouseover="$(this).attr('src', 'assets/images/zend-colour.jpg');" onmouseout="$(this).attr('src', 'assets/images/zend-grey.jpg');" style="width: 40%; max-width: 200px; margin: 4%;" /></a>
             <a href="http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=458&get_params=p_track_id:MYSQL5" target="_blank"><img src="assets/images/oracle-grey.jpg" alt="Oracle Certified MySQL Associate" onmouseover="$(this).attr('src', 'assets/images/oracle-colour.jpg');" onmouseout="$(this).attr('src', 'assets/images/oracle-grey.jpg');" style="width: 40%; max-width: 200px; margin: 4%;" /></a>
